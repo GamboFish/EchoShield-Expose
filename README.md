@@ -3,6 +3,8 @@
 ### We also cracked their license system and blocked all backdoors: https://github.com/Randale196/Randale196-EchoShield-Crack 
 Expose of the FiveM Anticheat "EchoShield"
 
+<img width="338" height="631" alt="owner1" src="https://github.com/user-attachments/assets/90419083-d303-4a0d-bdb7-74ac4a8dcd50" />
+<img width="335" height="590" alt="owner2" src="https://github.com/user-attachments/assets/3ad0f4f9-cb59-4b83-874e-b4e28e904c32" />
 <img width="509" height="261" alt="memoryread" src="https://github.com/user-attachments/assets/dcbc10e0-7b24-4ed4-a384-9681f0877759" />
 <img width="754" height="188" alt="echoshitbackdoor" src="https://github.com/user-attachments/assets/68ddd01c-a531-4145-b80c-2bf7f492341f" />
 <img width="1008" height="355" alt="feedback2" src="https://github.com/user-attachments/assets/92073f7f-fbb4-418f-ab1f-001833166e80" />
