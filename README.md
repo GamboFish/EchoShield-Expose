@@ -16,3 +16,4 @@ Discord ID: 1271273742076608553
 <img width="1008" height="355" alt="feedback2" src="https://github.com/user-attachments/assets/92073f7f-fbb4-418f-ab1f-001833166e80" />
 <img width="722" height="520" alt="feedback" src="https://github.com/user-attachments/assets/58b91ca6-5002-4b8e-be4c-3989adace97b" />
 <img width="488" height="261" alt="cracking" src="https://github.com/user-attachments/assets/af17a24a-5395-4a98-9bc7-88e6e56f063e" />
+<img width="508" height="414" alt="leaking personal data" src="https://github.com/user-attachments/assets/1777154c-92eb-4341-9eb3-e036d284763d" />
