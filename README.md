@@ -1,11 +1,12 @@
 # EchoShield-Expose
-### They have Backdoors in their Anticheat, delete bad feedback and steal detections from other anticheats. They also buy anticheats that are protected with keymaster to decrypt and leak them and use some of their stuff.
-### We also cracked their license system and blocked all backdoors: https://github.com/Randale196/Randale196-EchoShield-Crack 
+### They have Backdoors in their Anticheat, delete bad feedback and steal detections from other anticheats. They also buy anticheats that are protected with keymaster to decrypt and leak them and use some of their stuff. "Maka" the Owner of this Anticheat also leaks personal information of others. I will not stoop to that level so i will not leak any personal information from him.
+### We also cracked their license system and blocked all backdoors: https://github.com/Randale196/Randale196-EchoShield-Crack
 Expose of the FiveM Anticheat "EchoShield"
 
 <img width="338" height="631" alt="owner1" src="https://github.com/user-attachments/assets/90419083-d303-4a0d-bdb7-74ac4a8dcd50" />
 
 Discord ID: 637963466677944321
+Second Account: flytrone | 1391558942034759683
 
 <img width="335" height="590" alt="owner2" src="https://github.com/user-attachments/assets/3ad0f4f9-cb59-4b83-874e-b4e28e904c32" />
 
